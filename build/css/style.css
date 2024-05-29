@@ -673,7 +673,7 @@ video {
     tranform: scaleY(1.2);
   }
 
-  1000%% {
+  1000% {
     tranform: scaleY(1);
   }
 }
